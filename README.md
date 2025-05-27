@@ -1,0 +1,1 @@
+This word.doc file is part of capstone project in Data science course taken in 2024/2025. The case study is of bank ABC and using Azure services to introduce AI and machine learning in their operations.
